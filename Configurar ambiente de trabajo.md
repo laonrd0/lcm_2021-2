@@ -10,7 +10,7 @@ Para configurar tu entorno de trabajo sigue los pasos de alguna de las siguiente
 
 ### 1. Equipos con Windows 10
 
-Las versiones recientes de _Windows_ cuentan con una herramienta llamada WSL _([Windows Sistem Linux]("https://es.wikipedia.org/wiki/Windows_Subsystem_for_Linux"))_, la cuál permite tener dentro del entorno _Windows_ una versión reducida del _[kernel]("https://es.wikipedia.org/wiki/N%C3%BAcleo(inform%C3%A1tica)")_ de _[Linux]("https://es.wikipedia.org/wiki/GNU/Linux")_; de esta manera podemos explorar las posibilidades que nos brinda una terminal de _Linux_ sin necesidad de realizar una instalación completa del sistema operativo.
+Las versiones recientes de _Windows_ cuentan con una herramienta llamada WSL _([Windows System Linux]("https://es.wikipedia.org/wiki/Windows_Subsystem_for_Linux"))_, la cuál permite tener dentro del entorno _Windows_ una versión reducida del _[kernel]("https://es.wikipedia.org/wiki/N%C3%BAcleo(inform%C3%A1tica)")_ de _[Linux]("https://es.wikipedia.org/wiki/GNU/Linux")_; de esta manera podemos explorar las posibilidades que nos brinda una terminal de _Linux_ sin necesidad de realizar una instalación completa del sistema operativo.
 
 * __Paso 1: Instalar y configurar WSL con Ubuntu 20.04:__ Seguir las instrucciones del siguiente [vídeo](https://youtube.com/watch?v=EvMv7Ms6XEY)
 
