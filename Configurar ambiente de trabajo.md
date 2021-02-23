@@ -18,7 +18,6 @@ Las versiones recientes de _Windows_ cuentan con una herramienta llamada WSL _([
 
 * __Paso 3:  Instalar Python 3x desde la terminal Linux :__ Omitir este paso.
 
-  
 
 ### 2. Equipos Mac con OSX
 
@@ -26,13 +25,12 @@ Las versiones recientes de _Windows_ cuentan con una herramienta llamada WSL _([
 
   * __Paso 2:  Instalar Python 3x desde la terminal Linux/OSX :__ Omitir este paso.
 
-    
 
 ### 3. Equipos que cuenten con una versión de windows que no soporta wsl (w7, w8) 
 
-  * __Paso 1:  Instalar el editor de código [VSCode8]("https://code.visualstudio.com/")__
+  * __Paso 1: Instalar el editor de código__ [VSCode8]("https://code.visualstudio.com/")
 
-  * __Paso 2: Instalar Python 3:__ Descargar el instalador desde el [sito oficial]("https://www.python.org/downloads/")__
+  * __Paso 2: Instalar Python 3:__ Descargar el instalador desde el _[sito oficial]("https://www.python.org/downloads/")_
 
   * __Paso 3: Instalar el emulador de terminal Linux [cmder]("https://cmder.net/")__. Para la instalación de cmder deberás realizar lo siguientes pasos:
 
