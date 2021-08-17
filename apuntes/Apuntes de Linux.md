@@ -4,7 +4,7 @@
 
 Los permisos en el sistema de archivos Linux nos permiten compartir o restringir información y  acceso a nuestros recursos del sistema. Además, un mal manejo de los  permisos puede provocar que algo no funcione bien.
 
-![image-20210817105511398](C:\Users\laonr\AppData\Roaming\Typora\typora-user-images\image-20210817105511398.png)
+![image-20210817105511398](https://raw.githUbusercontent.com/laonrd0/picgo/main/imgimage-20210817105511398.png)
 
 En el campo de tipo de archivos se pueden tener las siguientes opciones:
 |IDentificador|Tipo de archivo|
