@@ -12,9 +12,9 @@ Realiza los ejercicios que se piden a continuación
 
 3. Escribe un programa que pida al usuario un número entero positivo $n $ y que imprima:
 
-   - la suma de los números desde $1$ hasta $n$
-   - El producto de los números de $1$ hasta $ n$
-   - la suma de los cuadrados de $1$ hasta $n$
+   - la suma de los números desde 1 hasta n
+   - El producto de los números de 1 hasta  n
+   - la suma de los cuadrados de 1 hasta n
 
    ```
    #Ejemplo
