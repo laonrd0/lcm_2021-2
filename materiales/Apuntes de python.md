@@ -26,10 +26,10 @@ Los ciclos `for` permiten ejecutar una o varias instrucciones de forma **iterati
 
 ```python
 for <variable_iterante> in <coleccion>: 
-	instruccion 1
-    instruccion 2
+	instrucción_1
+    instrucción_2
     ...
-    instruccion n
+    instrucción_n
 
 ```
 
