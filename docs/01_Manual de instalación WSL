@@ -1,0 +1,64 @@
+# Instalación de herramientas de trabajo: WSL, Python3
+
+###### MCC. Leonardo Arroyo Lira
+
+
+
+Este documento es una guía resumida de varias fuentes para instalar **[WSL (Windows Subsystem for Linux)](https://learn.microsoft.com/es-es/windows/wsl/about)** si estás utilizando Windows 10 o Windows 11. Esta herramienta te permitirá usar una terminal de comandos de Linux desde Windows.
+
+No es necesario seguir este manual para quienes:
+
+1. Usan Linux como sistema operativo de forma nativa en tu computadora.
+2. Usan macOS como tu sistema operativo.
+3. Ya cuentan con una terminal Linux con WSL en tu Windows.
+
+
+
+## 1. Instalar WSL y Ubuntu
+
+**WSL** es como tener un kernel con alguna distribución de linux encapsulado corriendo en nuestra computadora con Windows 10 u 11.
+
+Una vez que tienes instalada esta herramienta podrás instalar de las distribuciones de Linux disponibles como Ubuntu o Debian. Para  nuestro curso instalaremos **Ubuntu** que se instala por defecto al instalar WSL, pero puedes escoger alguna otra para trabajos futuros o por la que tengas preferencia y ya sepas utilizar.
+
+**IMPORTANTE**:
+
+> Antes de iniciar debemos estar seguros de que contamos con la actualización adecuada de Windows, tal como lo indica Microsoft en su documentación: *"Para ejecutar los siguientes comandos, debe ejecutar Windows 10 versión  2004 y posteriores (compilación 19041 y posteriores) o Windows 11. Si  está en versiones anteriores, consulte [la página de instalación manual](https://learn.microsoft.com/es-es/windows/wsl/install-manual)."* 
+
+Puedes encontrar mas información en la [documentación oficial de windows](https://learn.microsoft.com/es-mx/windows/wsl/install).
+
+Ahora si, para iniciar con la instalación sigue los siguientes pasos:
+
+1. Abrimos *"Windows PowerShell"* desde inicio en Widows y **Ejecutamos como Administrador**.
+
+   ![](/home/leonardo/Documentos/acp_2023-2/docs/01-01.webp)
+
+2. Dentro de Windows PowerShell escribe la siguiente instrucción y presiona la tecla **Enter**:
+
+   ```wsl --install```
+
+3. Espera a que la instalación llegue al 100% y presiona **Enter**. Esto iniciará el proceso de instalación de linux Ubuntu.
+
+   ![](/home/leonardo/Documentos/acp_2023-2/docs/01-03.webp)
+
+4. Espera a que la instalación de Ubuntu se complete.
+
+5. Cuando finalize la instalación reinicia tu computadora para aplicar los cambios.
+
+6. Una vez que se haya reiniciado la computadora iniciará la configuración de Ubuntu.
+
+   ![](/home/leonardo/Documentos/acp_2023-2/docs/01-05.webp)
+
+7. Ingresa un **username** y **password**. No pierdas estos datos, ya que son requeridos para muchas acciones en el sistema operativo Linux.
+
+   ![](/home/leonardo/Documentos/acp_2023-2/docs/01-06.webp)
+
+8. Hecho lo anterior, ya tienes WSL y Ubuntu instalados en tu computadora con Windows.  Para acceder nuevamente a Ubuntu en WSl abre la aplicación **Terminal** desde inicio de Windows.
+
+   ![](/home/leonardo/Documentos/acp_2023-2/docs/01-07.webp)
+
+9. Dentro de **Terminal** da clic en la flecha hacia abajo y elige la opción de **Ubuntu**.
+
+   ![](/home/leonardo/Documentos/acp_2023-2/docs/01-08.webp)
+
+   ![](/home/leonardo/Documentos/acp_2023-2/docs/01-09.webp)
+
